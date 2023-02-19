@@ -1,3 +1,5 @@
+#Сгенерировано с помощью https://chat.openai.com/chat
+
 import telebot
 import random
 
